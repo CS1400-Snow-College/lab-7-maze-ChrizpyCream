@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab-7-maze-ChrizpyCream/1.0.0": {
+        "runtime": {
+          "lab-7-maze-ChrizpyCream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab-7-maze-ChrizpyCream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
